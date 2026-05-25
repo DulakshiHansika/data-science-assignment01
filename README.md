@@ -1,19 +1,22 @@
-# data-science-assignment01
-
-Project Title:
-Analysis of Cardiac Data of Suva Hospital Patients
+Linear Regression Project - Data Science Assignment 01
 
 Description:
-This project focuses on cleaning, analyzing, and predicting heart disease using machine learning.
+This project demonstrates a Linear Regression model using Python. 
+The dataset is cleaned, visualized, and used for training and testing.
+
+Steps:
+1. Data Cleaning (missing values + duplicates removed)
+2. Data Visualization using Matplotlib
+3. Model Training using Linear Regression
+4. Prediction on test dataset
 
 Tools Used:
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Scikit-learn
 
-Steps:
-1. Data Cleaning
-2. Visualization
-3. KNN Model Training
-4. Prediction
+Dataset:
+- train.csv
+- test.csv
